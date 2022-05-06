@@ -13,6 +13,6 @@ while (guess != n):
         guess=int(input("Enter a higher Number : "))
         continue
 if(guess== n):
-    print("You guessed the correct the number! Well done!")
+    print("You guessed the correct the number! Well done!!")
 print("Random number is: " )
 print(guess)
